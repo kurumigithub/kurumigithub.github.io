@@ -10,6 +10,17 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
+ img {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.intro-paragraph {
+  padding: 10px
+}
+
+
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;

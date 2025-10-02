@@ -1,22 +1,39 @@
 {
-	"movies": [
+	"sports": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Team": "Golden State Warriors",
+			"Sport": "Basketball",
+			"Venue": "Chase Center",
+			"Favorite Player": "Stephen Curry"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Team": "San Francisco 49ers",
+			"Sport": "American Football",
+			"Venue": "Levi's Stadium",
+			"Favorite Player": "Brandon Aiyuk"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Team": "San Francisco Giants",
+			"Sport": "Baseball",
+			"Venue": "Oracle Park",
+			"Favorite Player": "Patrick Bailey"
+		},
+		{
+			"Team": "Sanfrecce Hiroshima FC",
+			"Sport": "Soccer",
+			"Venue": "Edion Peace Wing Hiroshima",
+			"Favorite Player": "Hayato Araki"
+		},
+		{
+			"Team": "Hiroshima Toyo Carp",
+			"Sport": "Baseball",
+			"Venue": "Mazda Zoom-Zoom Stadium Hiroshima",
+			"Favorite Player": "Daichi Ohsera"
+		}, {
+			"Team": "FC Barcelona",
+			"Sport": "Soccer",
+			"Venue": "Spotify Camp Nou",
+			"Favorite Player": "Lamine Yamal"
 		}
 	]
 }
