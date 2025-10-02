@@ -315,6 +315,7 @@ svg {
 table {
   caption-side: bottom;
   border-collapse: collapse;
+  margin: 0 auto;
 }
 
 caption {
@@ -1188,6 +1189,7 @@ progress {
   .col-md-6 {
     flex: 0 0 auto;
     width: 50%;
+    margin: 0 auto;
   }
 
   .col-md-7 {
