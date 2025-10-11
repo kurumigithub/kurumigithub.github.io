@@ -1,8 +1,23 @@
 table {
   width: 75%;
   font-size: large;
+  background-color: pink;
+  color: #ffffff;
+  border: 2px solid black;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 }
 
-td {
+td, th {
   padding: 10px;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
+
+table tr:first-child {
+  color: #000000;
+}
+
+table th:last-child,
+table td:last-child {
+  border-right: none;
 }

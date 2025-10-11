@@ -45,7 +45,7 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #1abc9c;
+  --bs-primary: #8ceeffcc;
   --bs-secondary: #2c3e50;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -7675,6 +7675,9 @@ textarea.form-control-lg {
 
 .text-center {
   text-align: center !important;
+}
+
+.intro {
   display: flex;
 }
 
